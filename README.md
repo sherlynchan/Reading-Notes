@@ -1,6 +1,6 @@
 # Reading-Notes
 
-Lists:
+A personal reading notes. Most of them were written by myself but some were copied from others. 
 
 1 R高性能编程notes by ShaolingC 2016.03
 
